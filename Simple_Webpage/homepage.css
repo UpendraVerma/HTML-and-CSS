@@ -1,0 +1,52 @@
+﻿
+#menu
+{
+	height:50px;
+	width:1000px;
+	margin-top:20px;
+	
+}
+.menuimg
+{
+	background-image:url('images/batton.jpg');
+	height:38px;
+	width:150px;
+	color:white;
+	text-align:center;	
+}
+.menuimg:hover
+{
+	background-image:url('images/batton1.jpg');
+}
+#middle
+{	
+	height:90px;
+	width:930px;
+	margin:0 auto;
+}
+#left
+{
+	height:800px;
+	width:610px;
+	float:left;
+}
+
+#l1						
+{
+	height:260px;
+	width:600px;
+	color:#004080;
+}
+#l2
+{
+	height:155px;
+	width:600px;
+	margin-top:10px;
+}
+#l3
+{	
+	height:160px;
+	width:600px;
+	margin-top:10px;
+	color:#004080;
+}
